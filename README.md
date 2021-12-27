@@ -1,6 +1,6 @@
 # phpmyadmin
 
-* pending Work on this repostiroy *
+* pending Work on this repostiroy 
 ```
 add SS of the database 
 
