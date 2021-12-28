@@ -8,8 +8,9 @@ TABLE Data
 Make notes of the step to create the complete Backend login and registartion page
 and how login from the backends
 ```
-<br />
+
 * Tables in php local host
+<br />
 > ![table-php](https://user-images.githubusercontent.com/72404186/147578748-9874be91-ef9c-4cad-b41f-5eda742c4e21.PNG)
 
 
