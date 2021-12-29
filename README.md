@@ -10,10 +10,7 @@ and how login from the backends
 ```
 
 * Tables in php local host
-<br />
-![table-php](https://user-images.githubusercontent.com/72404186/147660433-eefc5fbc-ce47-45f7-8b49-887ed65a789d.PNG)
-
-
+> ![table-php](https://user-images.githubusercontent.com/72404186/147660433-eefc5fbc-ce47-45f7-8b49-887ed65a789d.PNG)
 
 <br />
 
