@@ -7,9 +7,8 @@ add SS of the database
 TABLE Data
 Make notes of the step to create the complete Backend login and registartion page
 and how login from the backends
-## Use the some model in the PHP project of Software Engineering
 ```
-
+## Use the some model in the PHP project of Software Engineering
 * Tables in php local host
 > ![table-php](https://user-images.githubusercontent.com/72404186/147660433-eefc5fbc-ce47-45f7-8b49-887ed65a789d.PNG)
 
